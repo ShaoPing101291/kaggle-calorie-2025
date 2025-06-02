@@ -37,7 +37,7 @@ There were no missing values in the dataset. I used the IQR method to handle out
 ## Results
 
 - Public Leaderboard: **0.05677** (Rank: **411**)
-- Private Leaderboard: **0.05875** (Rank: **590**)
+- Private Leaderboard: **0.05875** (Rank: **534**)
 
 ##  What I Learned
 
