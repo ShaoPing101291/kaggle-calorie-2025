@@ -1,4 +1,5 @@
 # kaggle-calorie-2025
+Ranked in the top 6% among 9,345 entrants and 37,000+ submissions in a highly competitive Kaggle challenge.
 Predicting calorie expenditure using machine learning (CatBoost + XGBoost). Kaggle Playground 2025.
 # Predict Calorie Expenditure
 
